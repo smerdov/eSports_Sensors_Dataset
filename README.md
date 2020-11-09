@@ -16,7 +16,7 @@ Please find more details and analysis in our [paper](https://arxiv.org/abs/2011.
 If you find this dataset useful for your research, please cite the paper:
 ```
 @article{smerdov2020collection,
-  title={Collection and Validation of Psycophysiological Data from Professional and Amateur Players: a Multimodal eSports Dataset},
+  title={Collection and Validation of Psychophysiological Data from Professional and Amateur Players: a Multimodal eSports Dataset},
   author={Smerdov, Anton and Zhou, Bo and Lukowicz, Paul and Somov, Andrey},
   journal={arXiv preprint arXiv:2011.00958},
   year={2020}
